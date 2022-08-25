@@ -5,13 +5,14 @@
 ## ***List of Contents***
 1. [Introduction](#sparkles-about-mindactivity-sparkles)
 2. [Environment Variables](#environment-variables)
-3. [Run Locally](#run-locally)
+3. [Run Locally](#Run-Locally)
 4. [How The Server Works](#how-the-server-works-)
 5. [Tech Stack](#tech-stack-)
 6. [Running Tests](#running-tests-)
 7. [Usage Examples](#usageexamples-)
 8. [API References](#api-reference-list-)
-9. [Appendix](#appendix-)
+9. [Authors](#Authors📚)
+10. [Appendix](#appendix-)
 
 <br/>
 
@@ -20,10 +21,20 @@
 <br />
 
 ## :sparkles: ***About Mindactivity*** :sparkles:
-Welcome to Mindactivity! Just in case you were curious about the name, mindfulness + productivity = mindactivity.
-It's a Mindfullness App designed to manage stress levels and increase productivity using meditative media.
 
-**This documentation is for the backend of the Mindactivity app. If you're interested in the frontend specifically, go to [https://github.com/SchoolOfCode/w9_frontend-project-mindactivity]**
+Welcome to Mindactivity!
+
+
+Mindactivity (Mindfulness + Activity) is a meditative media app which allows users to time their meditation and deep work sessions. Here's a little demo of the app:
+
+
+https://user-images.githubusercontent.com/101634716/186674458-62721b43-b845-42d6-8f6b-a83c6a662e37.mp4
+
+*This documentation is for the backend of the Mindactivity app. If you're interested in the docs for the entire fullstack app, got to [my fork of the frontend repo](https://github.com/SchoolOfCode/w9_frontend-project-mindactivity.git)*
+
+<br/>
+
+*This is a fork of the Mindactivity backend repo. Original repos can be found here: [frontend](https://github.com/SchoolOfCode/w9_frontend-project-mindactivity.git) & [backend](https://github.com/SchoolOfCode/w9_backend-project-mindactivity). All links from this point onward point to the original repos.*
 
 <br/>
 
@@ -211,6 +222,19 @@ http://localhost:3001/v1/blogs
 ---
 
 <br />
+
+## ***Authors📚***
+
+We are four bootcampers at [The School Of Code](https://github.com/SchoolOfCode) who teamed up to build an app to help solve bootcamper burnout problem for our mid-course project.
+
+- [@AureaFlamma](https://www.github.com/AureaFlamma)
+- [@EdMark11](https://www.github.com/EdMark11)
+- [@anastasia-starostina](https://www.github.com/anastasia-starostina)
+- [@Sadie109](https://www.github.com/Sadie109)
+
+<br/>
+
+---
 
 ## ***Appendix*** 📝
 
